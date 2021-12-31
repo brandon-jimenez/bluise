@@ -59,3 +59,6 @@ yarn test
 4. Enable Git Gateway.
 
 _Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a03f391d-f0ea-4d32-bba5-3a51a91aa96f/deploy-status)](https://app.netlify.com/sites/eager-wilson-bc1e5a/deploys)
