@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Hey, I'm Brandon. Welcome to my site.",
-  "logo": "/images/uploads/logo.png",
+  "titleTemplate": "| Brandon Jimenez",
+  "welcomeText": "# Hey, I'm Brandon. Welcome to my site.\n\n#### Here you'll find:\n\n* Tinkering\n* Learning \n* Homelabbing",
+  "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Portfolio website",
   "seoMetaImage": ""
 }
